@@ -2,4 +2,4 @@
 
 Game game = new Game();
 game.SetScreen();
-game.Logic();
+game.Run();
