@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D_FPS", "3D_FPS\3D_FPS.csproj", "{2055D5C7-3D37-43E1-B354-A2E062AF9E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2055D5C7-3D37-43E1-B354-A2E062AF9E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2055D5C7-3D37-43E1-B354-A2E062AF9E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2055D5C7-3D37-43E1-B354-A2E062AF9E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2055D5C7-3D37-43E1-B354-A2E062AF9E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2023691B-8410-44EB-ABE2-BD331D1E335E}
+	EndGlobalSection
+EndGlobal

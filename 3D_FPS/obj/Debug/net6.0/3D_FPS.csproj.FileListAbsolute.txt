@@ -1,0 +1,15 @@
+H:\Сигма-М\VS Csh\3D_FPS\3D_FPS\obj\Debug\net6.0\3D_FPS.csproj.AssemblyReference.cache
+H:\Сигма-М\VS Csh\3D_FPS\3D_FPS\obj\Debug\net6.0\3D_FPS.GeneratedMSBuildEditorConfig.editorconfig
+H:\Сигма-М\VS Csh\3D_FPS\3D_FPS\obj\Debug\net6.0\3D_FPS.AssemblyInfoInputs.cache
+H:\Сигма-М\VS Csh\3D_FPS\3D_FPS\obj\Debug\net6.0\3D_FPS.AssemblyInfo.cs
+H:\Сигма-М\VS Csh\3D_FPS\3D_FPS\obj\Debug\net6.0\3D_FPS.csproj.CoreCompileInputs.cache
+H:\Сигма-М\VS Csh\3D_FPS\3D_FPS\bin\Debug\net6.0\3D_FPS.exe
+H:\Сигма-М\VS Csh\3D_FPS\3D_FPS\bin\Debug\net6.0\3D_FPS.deps.json
+H:\Сигма-М\VS Csh\3D_FPS\3D_FPS\bin\Debug\net6.0\3D_FPS.runtimeconfig.json
+H:\Сигма-М\VS Csh\3D_FPS\3D_FPS\bin\Debug\net6.0\3D_FPS.dll
+H:\Сигма-М\VS Csh\3D_FPS\3D_FPS\bin\Debug\net6.0\ref\3D_FPS.dll
+H:\Сигма-М\VS Csh\3D_FPS\3D_FPS\bin\Debug\net6.0\3D_FPS.pdb
+H:\Сигма-М\VS Csh\3D_FPS\3D_FPS\obj\Debug\net6.0\3D_FPS.dll
+H:\Сигма-М\VS Csh\3D_FPS\3D_FPS\obj\Debug\net6.0\ref\3D_FPS.dll
+H:\Сигма-М\VS Csh\3D_FPS\3D_FPS\obj\Debug\net6.0\3D_FPS.pdb
+H:\Сигма-М\VS Csh\3D_FPS\3D_FPS\obj\Debug\net6.0\3D_FPS.genruntimeconfig.cache
